@@ -120,7 +120,7 @@ ul.row {
 .footer ul {
     text-align: right;
 }
-.row {
+.row:after {
     content: '';
     display: table;
     clear: both;
